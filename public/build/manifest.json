@@ -1,0 +1,9 @@
+{
+  "build/app.css": "http://localhost:8001/build/app.css",
+  "build/app.js": "http://localhost:8001/build/app.js",
+  "build/detail.css": "http://localhost:8001/build/detail.css",
+  "build/detail.js": "http://localhost:8001/build/detail.js",
+  "build/runtime.js": "http://localhost:8001/build/runtime.js",
+  "build/vendors-node_modules_core-js_modules_es_function_name_js-node_modules_mini-css-extract-plugin-36ef5d.js": "http://localhost:8001/build/vendors-node_modules_core-js_modules_es_function_name_js-node_modules_mini-css-extract-plugin-36ef5d.js",
+  "build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_fu-23ca09.js": "http://localhost:8001/build/vendors-node_modules_symfony_stimulus-bridge_dist_index_js-node_modules_core-js_modules_es_fu-23ca09.js"
+}
